@@ -5,7 +5,7 @@ function startBot() {
     host: "Leandro_xd_cangrejo.aternos.me",
     port: 32241,
     username: "bot-afk",
-    version: "1.21.10",
+    version: "1.21.1",
     auth: "offline" // false = crack
   });
 
